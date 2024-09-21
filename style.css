@@ -17,6 +17,9 @@ margin-right: 5%;
 caption {
 border: 2px ridge black;
 }
+figure{
+float: left;
+}
 table {
 	text-align: center;
 	width: 75%;
@@ -34,6 +37,18 @@ body {
 footer{
 	background-image: linear-gradient(white, #1c1b22);
 	margin: 0%;
+}
+li.nav a:link{
+	color: #0066cc;
+}
+li.nav a:visited{
+	color: #7f00cc;
+}
+li.nav a:hover{
+	color: 00ff00;
+}
+li.nav a:active{
+	color: 00bbff;
 }
 @media (prefers-color-scheme: dark) { 
 	body {
