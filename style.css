@@ -106,22 +106,22 @@ div.e {
 	width: 20%;
 	float: left;
 }
-div.news article {
+article.news {
 	width: 20%;
 	float: left;
 	border: 2px solid black;
 }
-div.news img{
+img.news{
 	width: 98%;
 }
-div.news body {
+body.news {
 	height: 200px;
 	background-color: white; 
 	color: black;
 	font-size: 22;
 	font-family: Prompt;
 }
-div.news header {
+header.news {
 	background-color: red; 
 }
 footer.news {
