@@ -98,3 +98,11 @@ div.b {
 div.c {
 	clear: both;
 }
+div.c {
+	clear: both;
+}
+article.news {
+	width: 5%;
+	height: 6%;
+	float: left;
+}
