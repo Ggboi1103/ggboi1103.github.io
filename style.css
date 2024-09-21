@@ -1,9 +1,6 @@
 *{
 margin: 1%;	
 }
-ul {
-align: center;
-}
 .normal {
 display: none;
 }
@@ -50,6 +47,12 @@ li.nav a:hover{
 li.nav a:active{
 	color: 00bbff;
 }
+article.article1 {
+	float: left;
+}
+article.article2 {
+	float: right;
+}
 @media (prefers-color-scheme: dark) { 
 	body {
 	background-color: #1c1b22; 
@@ -83,4 +86,15 @@ li.nav a:active{
 	.inverted {
 	display: none;
 	}
+}
+div.a {
+	width: 45%;
+	float: left;
+}
+div.b {
+	width: 50%;
+	float: right;
+}
+div.c {
+	clear: both;
 }
