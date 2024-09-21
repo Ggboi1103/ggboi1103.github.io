@@ -106,12 +106,15 @@ div.e {
 	width: 20%;
 	float: left;
 }
-article.news {
+div.b img{
+	width: 100%;
+}
+div.news article {
 	width: 20%;
 	float: left;
 	border: 2px solid black;
 }
-img.news{
+div.news img{
 	width: 98%;
 }
 body.news {
