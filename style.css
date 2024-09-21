@@ -51,6 +51,18 @@ li.nav a:hover{
 li.nav a:active{
 	color: 00bbff;
 }
+a:link{
+	color: #0066cc;
+}
+a:visited{
+	color: #7f00cc;
+}
+a:hover{
+	color: 00ff00;
+}
+a:active{
+	color: 00bbff;
+}
 @media (prefers-color-scheme: dark) { 
 	body {
 	background-color: #1c1b22; 
